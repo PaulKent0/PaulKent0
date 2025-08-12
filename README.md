@@ -55,5 +55,5 @@ Currently building hands-on projects and labs in Azure, Microsoft 365, and netwo
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn] www.linkedin.com/in/paul-m-kent 
-- [Email](mailto:YOUR-EMAIL)
+- www.linkedin.com/in/paul-m-kent 
+- [Email]
